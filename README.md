@@ -1,7 +1,7 @@
 # Lunar Hemisphere Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](#tests)
+[![Tests](https://github.com/Ali-Razeghi/lunar-hemisphere-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/Ali-Razeghi/lunar-hemisphere-analysis/actions/workflows/tests.yml)
 [![Data](https://img.shields.io/badge/data-NASA%20LOLA%20%2B%20Robbins-informational)](#validated-datasets)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
