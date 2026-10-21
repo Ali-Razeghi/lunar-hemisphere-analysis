@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software and the underlying NASA LOLA and Robbins datasets."
+title: "Lunar Hemisphere Analysis"
+type: software
+authors:
+  - family-names: "Razeghi"
+    given-names: "Ali"
+version: 1.0.0
+date-released: 2026-09-29
+license: MIT
