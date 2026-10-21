@@ -99,7 +99,7 @@ pytest -q
 
 ## Companion article
 
-**Ali Razeghi — [The hidden but wonderful side of the moon](https://www.linkedin.com/pulse/hidden-wonderful-side-moon-ali-razeghi-vl5ae)**
+**Ali Razeghi -  [The hidden but wonderful side of the moon](https://www.linkedin.com/pulse/hidden-wonderful-side-moon-ali-razeghi-vl5ae)**
 
 The article discusses the Moon's hemispheric asymmetry, the far side's rugged terrain and crater-rich morphology, impact history, and South Pole–Aitken context. This repository turns those qualitative scientific themes into a reproducible quantitative analysis using LOLA topography and the Robbins crater catalog.
 
